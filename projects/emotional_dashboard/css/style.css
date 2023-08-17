@@ -1,0 +1,18 @@
+body{
+	overflow:hidden;
+	margin:0;
+	padding:0;
+}
+#mycanvas{
+  clip-path: url(#svgPath);
+}
+main{
+
+  position: absolute;
+  top: 0px;
+  left:0px;
+  background: rgb(70, 68, 158);
+}
+path{
+
+}
